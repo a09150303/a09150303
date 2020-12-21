@@ -40,11 +40,21 @@ int main()
 {
 	Employee em1;
 	
-	cout<<"¿é¤J­û¤u¸ê®Æ:"<<endl;
+	cout<<"è¼¸å…¥å“¡å·¥è³‡æ–™:"<<endl;
 	em1.input_data();
-	cout<<"¿é¥X­û¤u¸ê®Æ:"<<endl;
+	cout<<"è¼¸å‡ºå“¡å·¥è³‡æ–™:"<<endl;
 	em1.print_data();
 	
 	system("pause");
 	return 0;
 }
+//è¼¸å…¥å“¡å·¥è³‡æ–™:
+//name:ttt
+//age:34
+//salary:567
+//mobile:0918355566
+//è¼¸å‡ºå“¡å·¥è³‡æ–™:
+//ttt
+//34
+//567
+//0918355566
