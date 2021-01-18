@@ -33,3 +33,7 @@ int main()
 	system("pause");
 	return 0;
 }
+//1001
+//18000
+//1002
+//25000
